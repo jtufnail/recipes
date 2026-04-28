@@ -9,3 +9,4 @@
 * peal, and destone the guac
 * using a fork mash up the guac
 * add a pinch of salt, a dash of oil, a dash of lime and mix together
+* continue mashing with fork until smooth
